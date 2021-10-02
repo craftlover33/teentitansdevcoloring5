@@ -4,16 +4,16 @@
    "redirectUrl": "-",
    "moreApps": [
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Ninja Coloring Game",
+         "description": "Ninja Coloring Game: The best virtual coloring book, filled with the best pictures of fairy tale characters, superhero characters, designed for all ages and kids! It is perfect for you as it can develop your expression and creativity!",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/iconcoloringdev5/main/iconnninja.png",
+         "url": "https://play.google.com/store/apps/details?id=com.rgbcolor.ninjacoloringhero"
       },
       {
-         "title": "",
-         "description": "",
-         "thumb": "",
-         "url": ""
+         "title": "Robot Coloring Game",
+         "description": "Robot Coloring Game is the best coloring book game for boys and girls of all ages! Has a simple appearance and is easily understood by children. Find your favorite cool robot!",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/iconcoloringdev5/main/iconnrobot.png",
+         "url": "https://play.google.com/store/apps/details?id=com.rgbcolor.robotcoloringpage"
       },
       {
          "title": "",
